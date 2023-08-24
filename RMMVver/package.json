@@ -1,0 +1,13 @@
+{
+    "name": "",
+    "main": "index.html",
+    "js-flags": "--expose-gc",
+	"chromium-args": "--disable-d3d11",
+    "window": {
+        "title": "",
+        "toolbar": false,
+        "width": 816,
+        "height": 624,
+        "icon": "icon/icon.png"
+    }
+}
